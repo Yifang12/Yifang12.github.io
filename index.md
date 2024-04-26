@@ -9,3 +9,6 @@ Hello and welcome to Yifang's blog.
 ## A1-2
 
 [Rail Pantograph Analysis ](https://github.com/Yifang12/Yifang/tree/main/CV_due1_2).
+
+
+![Image of A1-2](images/1714105611104.jpg)
