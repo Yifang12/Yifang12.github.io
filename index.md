@@ -18,4 +18,4 @@ Hello and welcome to Yifang's blog.
 [Hough Tranforms(line detection) ](https://github.com/Yifang12/Yifang/tree/main/CV_due1_3).
 
 
-![Image of A1-3](images/1714105611104.jpg)
+![Image of A1-3](images/1111.png)
