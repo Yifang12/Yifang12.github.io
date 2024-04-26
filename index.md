@@ -1,4 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to Yifang's blog. 
+[CV_A_1](https://github.com/Yifang12/Yifang/tree/main/CV_due1_1).
 
 ![Image of fast.ai logo](images/logo.png)
 
