@@ -1,4 +1,5 @@
 Hello and welcome to Yifang's blog. 
+It mainly records what I learned in ELEC4630
 
 
 
