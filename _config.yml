@@ -10,9 +10,15 @@ title: Yifang's CV Blog
 description: Yifang's CV Blog
 github_username: Yifang12
 
-# Email and twitter are optional:
 email: 1299160711@qq.com
+twitter_username:
 
+
+# Set this to true to get LaTeX math equation support
+use_math:
+
+# Add your Google Analytics ID here if you have one and want to use it
+google_analytics:
 
 
 # Everything below here can be ignored, unless you want to change the theme entirely
