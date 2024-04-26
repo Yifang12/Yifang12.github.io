@@ -20,7 +20,7 @@ Hello and welcome to Yifang's blog.
 
 ## A1-3
 
-[Hough Tranforms(line detection) ](https://github.com/Yifang12/Yifang/tree/main/CV_due1_3).
+[Hough Tranforms(line detection) ](https://github.com/Yifang12/Yifang/tree/main/CV_due_1_3).
 
 
 ![Image of A1-3](images/1111.png)
