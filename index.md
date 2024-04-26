@@ -12,3 +12,10 @@ Hello and welcome to Yifang's blog.
 
 
 ![Image of A1-2](images/1714105611104.jpg)
+
+## A1-3
+
+[Hough Tranforms(line detection) ](https://github.com/Yifang12/Yifang/tree/main/CV_due1_3).
+
+
+![Image of A1-3](images/1714105611104.jpg)
